@@ -1,0 +1,12 @@
+E:\www\asp.net\AmeCms\Ame.WPHook\bin\Debug\net5.0\Ame.WPHook.deps.json
+E:\www\asp.net\AmeCms\Ame.WPHook\bin\Debug\net5.0\Ame.WPHook.dll
+E:\www\asp.net\AmeCms\Ame.WPHook\bin\Debug\net5.0\ref\Ame.WPHook.dll
+E:\www\asp.net\AmeCms\Ame.WPHook\bin\Debug\net5.0\Ame.WPHook.pdb
+E:\www\asp.net\AmeCms\Ame.WPHook\obj\Debug\net5.0\Ame.WPHook.csprojAssemblyReference.cache
+E:\www\asp.net\AmeCms\Ame.WPHook\obj\Debug\net5.0\Ame.WPHook.GeneratedMSBuildEditorConfig.editorconfig
+E:\www\asp.net\AmeCms\Ame.WPHook\obj\Debug\net5.0\Ame.WPHook.AssemblyInfoInputs.cache
+E:\www\asp.net\AmeCms\Ame.WPHook\obj\Debug\net5.0\Ame.WPHook.AssemblyInfo.cs
+E:\www\asp.net\AmeCms\Ame.WPHook\obj\Debug\net5.0\Ame.WPHook.csproj.CoreCompileInputs.cache
+E:\www\asp.net\AmeCms\Ame.WPHook\obj\Debug\net5.0\Ame.WPHook.dll
+E:\www\asp.net\AmeCms\Ame.WPHook\obj\Debug\net5.0\ref\Ame.WPHook.dll
+E:\www\asp.net\AmeCms\Ame.WPHook\obj\Debug\net5.0\Ame.WPHook.pdb

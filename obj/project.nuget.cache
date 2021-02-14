@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "TB02dH33qu9/XSzEGPKn8jd+agXoiXHEOOWH0jWUyThaLn+0bWZtUVQ0304JOGT6BWfn64k6Bq22w2G4RAdSBQ==",
+  "success": true,
+  "projectFilePath": "E:\\www\\asp.net\\AmeCms\\Ame.WPHook\\Ame.WPHook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tangly1991\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\tangly1991\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\tangly1991\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
